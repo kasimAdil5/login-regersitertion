@@ -30,7 +30,7 @@ body{
     margin-right: 30px;
 }
 .navbar a::after {
-    content: "";
+    content: '';
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -99,12 +99,12 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    width: 75%;
-    height: 550px;
+    width: 47%;
+    height: 700px;
     background: url(background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    border-radius: 10px;
+    border-radius: 20px;
     margin-top: 20px;
 }
 .container .content{
